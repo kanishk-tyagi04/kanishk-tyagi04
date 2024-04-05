@@ -1,3 +1,5 @@
+
+<div align="center"> <img src="https://raw.githubusercontent.com/kanishk-tyagi04/kanishk-tyagi04/main/Kanishk_Banner.png"> </div>
 <h1 align="center">Hi 👋, I'm Kanishk Tyagi</h1>
 <h3 align="center">A passionate Computer Science student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
