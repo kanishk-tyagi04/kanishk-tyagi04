@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kanishk Tyagi</h1>
 <h3 align="center">A passionate Computer Science student from India</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on **Chefmate**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **Data Structures and Algoritms**
+-  👨‍💻 All of my projects are available at [https://github.com/kanishk-tyagi04](https://github.com/kanishk-tyagi04)
 
 - 📫 How to reach me **kanishk.22scse1180045@galgotiasuniversity.edu.in**
 
